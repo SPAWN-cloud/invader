@@ -1,4 +1,4 @@
-#-- coding: UTF-8 --
+
 import os, time, sys, json, socket, pty
 reset = '\033[0;0m'
 destq = '\033[;1m'
